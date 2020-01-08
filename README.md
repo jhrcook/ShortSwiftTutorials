@@ -1,4 +1,4 @@
-# Short Tutorials
+# Short Swift Tutorials
 
 ![Swift](https://img.shields.io/badge/Swift-Tutorials-FA7343.svg?style=flat&logo=swift)
 [![jhc github](https://img.shields.io/badge/GitHub-jhrcook-181717.svg?style=flat&logo=github)](https://github.com/jhrcook)
