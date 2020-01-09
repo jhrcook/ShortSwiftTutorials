@@ -9,13 +9,13 @@ This is a small repository with notes from short, online tutorials.
 Below is a list of the tutorials I have completed thus far:
 
 * ["Closures"](https://www.swiftbysundell.com/basics/closures/) from *Swift by Sundell*
+* ["Generics"](https://www.swiftbysundell.com/basics/generics/) from *Swift by Sundell*
 
 
 **To-Do**
 
 * ["SwiftUI"](https://www.swiftbysundell.com/basics/swiftui/) from *Swift by Sundell*
 * ["Strings"](https://www.swiftbysundell.com/basics/strings/) from *Swift by Sundell*
-* ["Generics"](https://www.swiftbysundell.com/basics/generics/) from *Swift by Sundell*
 * ["Swift Playgrounds 3"](https://developer.apple.com/videos/play/wwdc2019/405/) from WWDC 2019
 * ["Enums"](https://www.swiftbysundell.com/basics/enums/) from *Swift by Sundell*
 * ["Memory Management"](https://www.swiftbysundell.com/basics/memory-management/) from *Swift by Sundell*
